@@ -1,0 +1,18 @@
+C:\Documents and Settings\sts301\Local Settings\Application Data\Temporary Projects\Транспортная логистика ЛР2\bin\Debug\Транспортная логистика ЛР2.exe
+C:\Documents and Settings\sts301\Local Settings\Application Data\Temporary Projects\Транспортная логистика ЛР2\bin\Debug\Транспортная логистика ЛР2.pdb
+C:\Documents and Settings\sts301\Local Settings\Application Data\Temporary Projects\Транспортная логистика ЛР2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sts301\Local Settings\Application Data\Temporary Projects\Транспортная логистика ЛР2\obj\Debug\Транспортная_логистика_ЛР2.Form1.resources
+C:\Documents and Settings\sts301\Local Settings\Application Data\Temporary Projects\Транспортная логистика ЛР2\obj\Debug\Транспортная_логистика_ЛР2.Form2.resources
+C:\Documents and Settings\sts301\Local Settings\Application Data\Temporary Projects\Транспортная логистика ЛР2\obj\Debug\Транспортная_логистика_ЛР2.Properties.Resources.resources
+C:\Documents and Settings\sts301\Local Settings\Application Data\Temporary Projects\Транспортная логистика ЛР2\obj\Debug\Транспортная логистика ЛР2.csproj.GenerateResource.Cache
+C:\Documents and Settings\sts301\Local Settings\Application Data\Temporary Projects\Транспортная логистика ЛР2\obj\Debug\Транспортная логистика ЛР2.exe
+C:\Documents and Settings\sts301\Local Settings\Application Data\Temporary Projects\Транспортная логистика ЛР2\obj\Debug\Транспортная логистика ЛР2.pdb
+C:\Учеба\V семестр\Трансп. логистика\2 ЛР\Транспортная логистика ЛР2\obj\Debug\Транспортная логистика ЛР2.exe
+C:\Учеба\V семестр\Трансп. логистика\2 ЛР\Транспортная логистика ЛР2\obj\Debug\Транспортная логистика ЛР2.pdb
+C:\Учеба\V семестр\Трансп. логистика\2 ЛР\Транспортная логистика ЛР2\bin\Debug\Транспортная логистика ЛР2.exe
+C:\Учеба\V семестр\Трансп. логистика\2 ЛР\Транспортная логистика ЛР2\bin\Debug\Транспортная логистика ЛР2.pdb
+C:\Учеба\V семестр\Трансп. логистика\2 ЛР\Транспортная логистика ЛР2\obj\Debug\ResolveAssemblyReference.cache
+C:\Учеба\V семестр\Трансп. логистика\2 ЛР\Транспортная логистика ЛР2\obj\Debug\Транспортная_логистика_ЛР2.Form1.resources
+C:\Учеба\V семестр\Трансп. логистика\2 ЛР\Транспортная логистика ЛР2\obj\Debug\Транспортная_логистика_ЛР2.Form2.resources
+C:\Учеба\V семестр\Трансп. логистика\2 ЛР\Транспортная логистика ЛР2\obj\Debug\Транспортная_логистика_ЛР2.Properties.Resources.resources
+C:\Учеба\V семестр\Трансп. логистика\2 ЛР\Транспортная логистика ЛР2\obj\Debug\Транспортная логистика ЛР2.csproj.GenerateResource.Cache

@@ -1,0 +1,28 @@
+C:\Учеба\V семестр\Трансп. логистика\Траснпортная Логист\bin\Debug\Траснпортная Логист.exe
+C:\Учеба\V семестр\Трансп. логистика\Траснпортная Логист\bin\Debug\Траснпортная Логист.pdb
+C:\Учеба\V семестр\Трансп. логистика\Траснпортная Логист\obj\Debug\ResolveAssemblyReference.cache
+C:\Учеба\V семестр\Трансп. логистика\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Учеба\V семестр\Трансп. логистика\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Учеба\V семестр\Трансп. логистика\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Учеба\V семестр\Трансп. логистика\Траснпортная Логист\obj\Debug\Траснпортная Логист.csproj.GenerateResource.Cache
+C:\Учеба\V семестр\Трансп. логистика\Траснпортная Логист\obj\Debug\Траснпортная Логист.exe
+C:\Учеба\V семестр\Трансп. логистика\Траснпортная Логист\obj\Debug\Траснпортная Логист.pdb
+C:\Учеба\V семестр\Трансп. логистика\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Учеба\V семестр\Трансп. логистика\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Учеба\V семестр\Трансп. логистика\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Учеба\V семестр\Трансп. логистика\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Учеба\V семестр\Трансп. логистика\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Учеба\V семестр\Трансп. логистика\1 ЛР\Траснпортная Логист\obj\Debug\Траснпортная Логист.exe
+C:\Учеба\V семестр\Трансп. логистика\1 ЛР\Траснпортная Логист\obj\Debug\Траснпортная Логист.pdb
+C:\Учеба\V семестр\Трансп. логистика\1 ЛР\Траснпортная Логист\bin\Debug\Траснпортная Логист.exe
+C:\Учеба\V семестр\Трансп. логистика\1 ЛР\Траснпортная Логист\bin\Debug\Траснпортная Логист.pdb
+C:\Учеба\V семестр\Трансп. логистика\1 ЛР\Траснпортная Логист\obj\Debug\ResolveAssemblyReference.cache
+C:\Учеба\V семестр\Трансп. логистика\1 ЛР\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Учеба\V семестр\Трансп. логистика\1 ЛР\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Учеба\V семестр\Трансп. логистика\1 ЛР\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Учеба\V семестр\Трансп. логистика\1 ЛР\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Учеба\V семестр\Трансп. логистика\1 ЛР\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Учеба\V семестр\Трансп. логистика\1 ЛР\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Учеба\V семестр\Трансп. логистика\1 ЛР\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Учеба\V семестр\Трансп. логистика\1 ЛР\Траснпортная Логист\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Учеба\V семестр\Трансп. логистика\1 ЛР\Траснпортная Логист\obj\Debug\Траснпортная Логист.csproj.GenerateResource.Cache
